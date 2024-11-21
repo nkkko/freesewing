@@ -203,6 +203,8 @@ npm run tips
 > If you don't want to set up a dev environment, you can run it in your browser:
 > 
 > [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/freesewing/freesewing)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/freesewing/freesewing)
 > 
 > We recommend that you fork our repository and then 
 > put `gitpod.io/#<entire-url-of-your-fork` into a browser 
